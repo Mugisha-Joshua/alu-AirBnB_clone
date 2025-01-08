@@ -1,4 +1,4 @@
-# Create a basemoder class with the following attributes:
+# Create a basemodel class with the following attributes:
 #1. ud
 #2. created_at
 #3. updated_at
