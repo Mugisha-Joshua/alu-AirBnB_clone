@@ -1,0 +1,42 @@
+/* Places section styles */
+.places {
+    margin-top: 40px;
+    text-align: center; /* Centers the content horizontally */
+  }
+  
+  .places h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .places-container {
+    display: inline-block; /* Inline container for the boxes */
+    text-align: center;
+  }
+  
+  .places-container .row {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; /* Allows boxes to wrap to a new line */
+  }
+  
+  .places article {
+    width: 390px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+  }
+  
+  .places article h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .places article p {
+    font-size: 14px;
+    text-align: center;
+  }
+  
